@@ -1,3 +1,4 @@
 git log ---view the commit history
 
 git status -- shows all the changes since previous commit
+git init ----wil start tracking all changes in the current folder
